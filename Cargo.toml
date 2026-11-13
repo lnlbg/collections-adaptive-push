@@ -1,0 +1,14 @@
+[package]
+name = "collections-adaptive-push"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+authors = ["Lachezar Lazarow <lnlbg@yahoo.com>"]
+description = "A Rust library providing adaptive capacity strategies and custom push extensions for standard collections."
+repository = "https://github.com/lnlbg/collections-adaptive-push"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+keywords = ["collections", "push", "allocation"]
+categories = ["data-structures", "memory-management"]
+
+[dependencies]
